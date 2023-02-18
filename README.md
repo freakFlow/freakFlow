@@ -1,2 +1,14 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freakFlow&show_icons=true&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakFlow&layout=compact&theme=great-gatsby)
+<div align="center">  
+  
+  # Hello, I'm Geon :boom::gun:  
+  ### :bar_chart: My stat :bar_chart:
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freakFlow&bg_color=DEG,a9f505,02d7f7)](https://github.com/anuraghazra/github-readme-stats)  
+  ### :computer: Language :computer:
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakFlow&bg_color=DEG,ddcbf5,bc81cc)](https://github.com/anuraghazra/github-readme-stats)  
+  ### :medal_sports: BOJ Tier :medal_sports:
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=quso12358)](https://solved.ac/quso12358)  
+  ### :pencil: write :pencil:  
+  ### :feet: road :feet:  
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+</div>
