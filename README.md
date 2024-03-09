@@ -8,7 +8,7 @@
   ### :medal_sports: BOJ Tier :medal_sports:
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=quso12358)](https://solved.ac/quso12358)  
   ### :pencil: write :pencil:  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=freak-flow&theme=santorini)](https://freak-flow.tistory.com/)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=freak-flow)](https://freak-flow.tistory.com/)
   ### :feet: road :feet:  
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
